@@ -1,0 +1,152 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #262626;
+}
+
+.nav-bar{
+    display: flex;
+    background-color: #262626;
+    font-family: cursive;
+    color: white;
+    margin: 0;
+    margin-top: 20px;
+    padding: 0;
+    width: 100%;
+    align-items: center;
+}
+
+.logo{
+    margin-right: auto;
+    float: left;
+    margin-left: 10px;
+}
+
+
+.nav-menu{
+    
+}
+
+.nav-menu li{
+    display: inline;
+    font-size: 1rem;
+    margin-right: 25px;
+}
+
+.nav-menu a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+/* main body  */
+
+
+.main-body{
+
+}
+
+.main-title{
+    width: 1200px;
+    text-align: center;
+    margin:auto;
+    color: white;
+    margin-top: 65px;
+    margin-bottom: 40px;
+    font-family:cursive;
+    font-size: 45px;
+    font-weight: lighter;
+    
+}
+
+.title{
+    
+}
+
+.available{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 40px;
+    color: white;
+    font-family: cursive;
+    font-weight:normal;
+    font-size: 20px;
+}
+
+
+.hire_me{
+    width: 200px;
+    text-align: center;
+    margin:auto;
+    margin-bottom: 40px;
+    padding: 10px;
+    /* border: 1px solid red; */
+    background-color: rgb(224, 153, 20);
+}
+
+.hire_me a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: rgb(224, 153, 20);
+}
+
+
+.img-coll{
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+
+.background{
+    display: flex;
+    color: white;
+    text-align: center;
+}
+
+.background_title{
+    font-size: 30px;
+    margin-left: 80px;
+    font-family: cursive;
+    margin-right: 40%;
+}
+
+.backgournd_note{
+    width: 600px;
+    text-align: left;
+    float: left;
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: lighter;
+    margin-bottom: 200px;
+}
+
+.backgournd_note p{
+    font-weight: lighter;
+}
+
+.exp_title{
+    color: white;
+    font-size: 30px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    font-family: cursive;
+    /* text-decoration: underline; */
+
+}
+
+
+.exp_img{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+.exp_img img{
+    height: 350px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
